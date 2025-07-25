@@ -4,7 +4,7 @@ graph = {
     'B': ['A', 'C', 'D'], 
     'C': ['A', 'B', 'E'], 
     'D': ['B', 'E'], 
-    'E': ['C', 'D'] 
+    'E': ['C', 'D',0] 
 }
 
 # To store visited nodes
